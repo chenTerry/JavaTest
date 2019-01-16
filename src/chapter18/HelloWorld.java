@@ -2,6 +2,9 @@ package chapter18;
 
 import java.awt.*;
 
+/***
+ * 测试lamda的使用方法
+ */
 public class HelloWorld {
     public static void main(String [] args){
         int n1 = 10;
